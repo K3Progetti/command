@@ -1,0 +1,31 @@
+{
+    "name": "sangio90/command",
+    "type": "library",
+    "description": "Base command",
+    "keywords": [
+        "command",
+        "symfony",
+        "symfony-command"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "K3\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "K3\\Tests\\": "tests"
+        }
+    },
+    "require": {
+        "php": "^7.3",
+        "monolog/monolog": "^2.0",
+        "symfony/console": "^5.0",
+        "symfony/process": "^5.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "version": "4.0.0"
+}
