@@ -1,6 +1,6 @@
 <?php
 
-namespace K3\Queue;
+namespace Esc\Queue;
 
 class QueuedCommand
 {

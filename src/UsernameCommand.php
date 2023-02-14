@@ -1,6 +1,6 @@
 <?php
 
-namespace K3;
+namespace Esc;
 
 use Exception;
 use Psr\Log\LoggerInterface;

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace K3\Queue;
+namespace Esc\Queue;
 
 use Psr\Log\LoggerInterface;
 use Symfony\Component\Process\Process;

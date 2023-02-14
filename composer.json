@@ -10,12 +10,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "K3\\": "src/"
+            "Esc\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "K3\\Tests\\": "tests"
+            "Esc\\Tests\\": "tests"
         }
     },
     "require": {
