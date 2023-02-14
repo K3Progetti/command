@@ -7,11 +7,11 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### ⚠ BREAKING CHANGES
 
-* sangio90/user dependency
+* K3Progetti/user dependency
 
 ### Features
 
-* removed sangio90/user dependency
+* removed K3Progetti/user dependency
 
 ### [3.0.1]
 
